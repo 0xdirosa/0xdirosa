@@ -1,15 +1,17 @@
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <h1 align='center'>
   Hi There 👋🏼, I'm Dirosa
 </h1>
 
 <p align='center'>
-  I'm a developer from Indonesia.
+  I'm a developer from Indonesia.<br/><br/>
+  My Workspace:<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-core%20i5%2010-%230071C5.svg?style=for-the-badge&logo=intel&logoColor=white" />
+  <omg src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-
-<h2 align='center'
-  My Workspace:
-</h2>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=dirosahm" />
